@@ -1,0 +1,11 @@
+1.	Hướng dẫn chuyển đổi jar thành exe
+	Sử dụng phần mềm EXE4J để chuyển đổi jar sang exe
+	Sử dụng phần mềm InnoSetup để đóng gói
+2.	Hướng dẫn cài đặt triển khai
+	Cài SQL Server 2008 trở lên
+	Tạo CSDL bằng cách chạy file QuanLiCuaHang.sql
+	Cài đặt JDK 1.8 trở lên
+	Thêm cách thư viên
+5.3.	Hướng dẫn sử dụng phần mềm
+	Đăng nhập với tài khoản nch và mật khẩu là 123
+	Cấp các tài khoản mới có vai trò tương ứng (nhân viên/thủ kho)
